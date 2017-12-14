@@ -1,0 +1,55 @@
+
+
+#mainBody{
+	float: left;
+	width: 940px;
+	padding-bottom: 10px;
+	margin: 40px 0 20px 10px;
+}
+
+.header{
+	margin-left: 240px;
+	margin-bottom: 40px;
+	color: #e8e6e6;
+}
+
+.person{
+	margin: 0 0 20px 160px;
+	clear:both;
+	border-bottom: 1px solid #e8e6e6;
+}
+
+.year{
+	margin: 0 0 20px 240px;
+	clear:both;
+	border-bottom: 1px solid #e8e6e6;
+}
+.person img{
+	float: left;
+	width: 60px;
+	margin-right: 20px;
+}
+
+.details{
+	float: left;
+	width: 540px;
+	margin-left: 0px;
+}
+
+.clear {
+	clear: both;
+	height: 1px;
+}
+
+.final{
+	border-bottom: none;
+
+}
+
+#current{
+	color: #707070;
+}
+
+li{
+	list-style: none;
+}

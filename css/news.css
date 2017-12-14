@@ -1,0 +1,50 @@
+
+
+#mainBody{
+	float: left;
+	width: 940px;
+	padding-bottom: 10px;
+	margin: 40px 0 20px 10px;
+}
+
+.header{
+	margin-left: 240px;
+	margin-bottom: 40px;
+	color: #e8e6e6;
+}
+
+.year{
+	margin: 0 0 20px 240px;
+	clear:both;
+	width: 540px;
+	border-bottom: 1px solid #e8e6e6;
+
+}
+
+.details{
+	float: left;
+	width: 540px;
+	margin-left: 0px;
+}
+
+.clear {
+	clear: both;
+	height: 1px;
+}
+
+.final{
+	border-bottom: none;
+
+}
+
+#current{
+	color: #707070;
+}
+
+li{
+	list-style: none;
+}
+
+ul{
+	padding-bottom: 20px;
+}

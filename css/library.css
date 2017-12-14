@@ -1,0 +1,138 @@
+#sidebar{
+	float: left;
+	width: 140px;
+	margin: 60px 0 0 10px;
+	
+}
+
+#sidebar h2{
+	padding-top: 20px;
+	clear: both;
+	border-top: 1px solid #e8e6e6;
+}
+
+#sidebar li{
+	list-style: none;
+}
+
+
+.space{
+	padding-bottom: 20px;
+}
+#grades{
+	clear: both;
+}
+#grades li{
+	float: left;
+	width: 25px;
+	
+}
+
+#states{
+	clear: both;
+}
+
+#states li{
+	float: left;
+	padding-right: 10px
+}
+
+#subjects{
+	padding-bottom: 20px;
+}
+
+
+.subjectArea{
+	padding-top: 20px;
+}
+
+.subjectArea:first-child{
+	padding-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+#mainBody{
+	float: left;
+	width: 790px;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+h1{
+	border-bottom: 1px solid #e8e6e6;
+	padding-bottom: 20px;
+}
+
+.arrow{
+	font-size: 10px;
+}
+
+h2{
+	margin-top: 10px;
+	margin-right: none;
+}
+
+h3{
+	color: black;
+	font-size: 1em;
+	font-weight: 100;
+	padding:0;
+	margin-bottom: 0;
+	clear: both;
+}
+
+
+.subjectArea{
+	margin-left: 10px;
+	clear: both;
+	
+	
+}
+
+.recentBook{
+	float: left;
+	width:140px;
+	padding-right: 9px;
+	border-right: 1px solid #e8e6e6;
+	margin-left: 10px;
+	margin-bottom: 20px;
+
+}
+
+.first{
+	margin-left:0px;
+}
+
+.recentBook img{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.recentBook ul{
+	float: left;
+}
+
+.recentBook li{
+	list-style: none;	
+}
+
+
+.subjectArea .final {
+	border: none;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+
+#highlight{
+	background: #e8e6e6;
+}

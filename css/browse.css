@@ -1,0 +1,142 @@
+#mainBody{
+	width: 960px;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+h1{
+	border-bottom: 1px solid #e8e6e6;
+	padding-bottom: 20px;
+}
+
+.arrow{
+	font-size: 10px;
+}
+
+h2{
+	margin-top: 10px;
+	margin-right: none;
+}
+
+h3{
+	color: black;
+	font-size: 1em;
+	font-weight: 100;
+	padding:0;
+	margin-bottom: 0;
+	clear: both;
+}
+
+#centerColumn{
+	float: left;
+	width: 470px;
+	margin:0 10px 0 0;
+}
+#centerColumn p{
+	width: 460px;
+}
+
+
+#TOC{
+	margin:0;
+	padding: 0;
+	width: 300px;
+	float: left;
+}
+
+
+.details{
+	float: left;
+	width: 140px;
+	margin: 0 10px;
+}
+
+.details:first-child{
+	float: left;
+	width: 140px;
+	margin: 0 10px 0 0;
+}
+
+.details h2{
+	margin: 0;
+	padding: 0;
+}
+
+#featured{
+	margin-left: 10px;
+}
+
+#featured dl{
+	margin: 0;
+	padding: 0;
+}
+
+#featured img{
+	float: left;
+	margin: 0 20px 0 0;
+}
+
+#featured h1{
+	border-bottom: none;
+	margin-bottom: 0;
+	padding: 0;
+}
+
+.subjectArea{
+	margin-left: 10px;
+	clear: both;
+	
+	
+}
+
+.recentBook{
+	float: left;
+	width:140px;
+	padding-right: 9px;
+	border-right: 1px solid #e8e6e6;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+.recentBook:first-child{
+	margin-left:0px;
+}
+
+.recentBook img{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.recentBook ul{
+	float: left;
+}
+
+.recentBook li{
+	list-style: none;	
+}
+
+
+.subjectArea .final {
+	border: none;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.first{
+	margin-left:0px;
+}
+
+.bookList li{
+	list-style: none;
+}
+
+.bookList ul{
+	float: left;
+	width: 300px;
+	margin: 0 10px 60px 10px;
+}
+
+.bookList ul:first-child{
+	margin-left: 0;
+}

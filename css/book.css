@@ -1,0 +1,89 @@
+dd{
+	margin-bottom: 20px;
+}
+
+dl{
+
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	
+}
+
+h2{
+	margin: 20px 0 0 0;
+	padding: 0 0 0 0;
+	
+}
+
+.h2NoBreak{
+	color: black;
+}
+
+#submitButton{
+	float: right;
+}
+
+#detailGroup{
+	width: 560px;
+	height: 40px;
+}
+
+#detailGroup h2{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.details{
+	float: left;
+	width: 140px;
+	margin: 0 10px;
+}
+
+.details:first-child{
+	margin-left: 0;
+}
+
+.people{
+	width: 540px;
+	margin-top: 20px;
+}
+
+#mainBody{
+	padding-left: 80px;
+	width: 540px;
+}
+
+#sidebar{
+	float: left;
+	width: 140px;
+	margin: 0 0 0 10px;
+	
+}
+
+
+
+#sidebar img{
+	margin: 5px 0;
+}
+
+.seperateSection{
+	padding-bottom: 10px;
+}
+
+#sidebar h2{
+	padding-top: 20px;
+	clear: both;
+	border-top: 1px solid #e8e6e6;
+}
+
+
+#resourceEmail{
+	width: 140px;
+	margin: 10px 0 0 0;
+	padding:0;
+	height: 25px;
+	background: white;
+	border: 1px solid #707070;
+}
+
+

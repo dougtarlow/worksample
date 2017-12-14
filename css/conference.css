@@ -1,0 +1,64 @@
+#neeru{
+	width: 140px;
+	margin: 60px 0 0 90px;
+	float: left;
+	text-align: right;
+}
+
+#mainBody{
+	float: left;
+	width: 540px;
+	padding-bottom: 10px;
+	margin: 40px 0 20px 20px;
+	border-bottom: 1px solid #e8e6e6;
+}
+
+#conferenceLink{
+	width: 540px;
+	margin-left: 250px;
+}
+
+h1{
+margin: 60px 0 20px 250px;
+}
+
+strong{
+	font-weight: 100;
+	color: black;
+}
+
+#header{
+	border-bottom: 1px solid #e8e6e6;
+	width: 540px;
+	margin:0 0 0 170px;
+}
+
+#header img{
+	float: left;
+	background: blue;
+	margin: 0 20px 0 0px;
+}
+
+#details{
+ 	float: left;
+	width: 460px;
+}
+
+#details ul{
+	float: left;
+	padding-bottom: 27px;
+}
+
+#details li{
+	list-style: none;
+}
+
+#details p{
+	clear: both;
+}
+
+.clear {
+	clear: both;
+	height: 1px;
+}
+
